@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
 	
-	// making a second change to terminal 3
+	// making a second change to terminal 4
 
 	// Chocolates
 	static int countMM = 0;
